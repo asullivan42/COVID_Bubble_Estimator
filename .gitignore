@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.csv
+APP_TOKEN.txt
+CDC_API.txt
