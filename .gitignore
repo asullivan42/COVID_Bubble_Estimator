@@ -130,3 +130,4 @@ dmypy.json
 *.csv
 APP_TOKEN.txt
 CDC_API.txt
+data/Opendatasoft_uscountyboundries.xlsx
