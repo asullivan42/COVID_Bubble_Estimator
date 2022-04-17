@@ -131,3 +131,9 @@ dmypy.json
 APP_TOKEN.txt
 CDC_API.txt
 data/Opendatasoft_uscountyboundries.xlsx
+*.dbf
+*.prj
+*.shp
+*.shx
+*.geojson
+data/boarders/georef-united-states-of-america-county.kml
