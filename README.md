@@ -2,7 +2,28 @@
 Python project attempting to answer some of my quesitons about the spread and scope of COVID-19 in the United States.
 
 **How Safe are you in your bubble?**
+## About the Data
+This data reflects data collected from 
+Datahub.io/core/covid-19#data
+>A collection of data from 
+>John’s Hopkins University, 
+>The World Health Organization, 
+>United States Center of Disease control 
+>The COVID Tracking Project, 
+>NYC Department of Health, 
+>Florida Department of Public health
+>… and many others
 
+The United States CDC Covid 19 database
+>Vaccination rates per county in the USA
+
+The US Census
+>2021 Data on current US population per county
+
+Wikipedia
+>Information about populations and locations of various counties within the US
+
+## What I have found
 Initialy looking at two of the most criticized states in the USA California appears to be doing less well than Florida
 ![](./figures/CA_v_Fl_cases.png)
 
