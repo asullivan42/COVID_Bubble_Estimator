@@ -24,7 +24,7 @@ Wikipedia
 >Information about populations and locations of various counties within the US
 
 ## What I have found
-Initialy looking at two of the most criticized states in the USA California appears to be doing less well than Florida
+Initially I was looking at two of the most criticized states in the USA. California at first appeared to be doing less well than Florida
 ![](./figures/CA_v_Fl_cases.png)
 
 However when we take into account population size differences we see a different story
@@ -55,8 +55,8 @@ I was able with the current data construct a KNN Regression algorithm which had 
 
 ![](./figures/knn_regression_by_county.png)
 
-This can be further be improved I am sure by updating the dataset with even more factors.  Suggestions I have come up with include population demographics, hospital capacity, average distance to the nearest hospital, and weather.  I'm sure there are many more important factors that should be considered, like other non COVID related deaths in each county/state and other factors common to the region.
+I am sure this can be further be improved by updating the dataset with even more factors.  Suggestions I have come up with include population demographics, hospital capacity, average distance to the nearest hospital, and weather.  I'm sure there are many more important factors that should be considered.
 
 ## Conclusions
 
-COVID continues to be a difficult virus to predict safety with, however some states and counties appear to be doing the best within the united states.  These states include the northwest and northe east as well as Utah according to this analysis.  It is of course not a complete picture but it is an informative look at how COVID is affecting the United States.
+COVID continues to be a difficult virus to predict safety with, however some states and counties appear to be doing fairly well within the united states.  These states include the northwest and northeeast as well as Utah.  It is of course not a complete picture, but it is an informative look at how COVID is affecting the United States.
