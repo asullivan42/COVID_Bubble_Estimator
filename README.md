@@ -24,15 +24,17 @@ Wikipedia
 >Information about populations and locations of various counties within the US
 
 ## What I have found
-Initially I was looking at two of the most criticized states in the USA. California at first appeared to be doing less well than Florida
+Initially I was looking at two of the most criticized states in the USA. California which has been criticized for being too progressive and locking people down too much, or on the flip side being the best protector of its population. Florida which has been celebrated for allowing for personal freedom and allowing its residents to do the right thing, or a state being too lax on COVID.  
+California at first glance appeared to be doing less well than Florida as far as which state is having more cases of COVID-19.
+
 ![](./figures/CA_v_Fl_cases.png)
 
-However when we take into account population size differences we see a different story
+However when we take into account population size differences we see a different story.
 
 ![](./figures/CA_v_Fl_cases_per1K.png)
 ![](./figures/CA_v_Fl_diff_per1K.png)
 
-And Deaths per capita things are not looking good for Florida
+And when we look at Deaths per capita, things are not looking good for Florida at all.
 
 ![](./figures/CA_v_Fl_deaths_per1K.png)
 
